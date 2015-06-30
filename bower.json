@@ -1,0 +1,24 @@
+{
+  "name": "bubbleshoot",
+  "version": "1.0.0",
+  "authors": [
+    "Ashraf Ezzat <ashraf.main@gmail.com>"
+  ],
+  "description": "Html5 game",
+  "main": "index.html",
+  "keywords": [
+    "Games",
+    "HTML5"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
